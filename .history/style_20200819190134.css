@@ -29,36 +29,17 @@ body{
 
 .person{
 
+
 }
-
-.person__description{
-    font-style: 16px;
-    line-height:22px ;
-    }
-
-
 
 .person__name{
 font-size: 36px;
 margin: 0;
-font-weight:normal;
+font-weight: normal;
 }
-
 
 .person__position{
     font-size: 18px;
     color: #545454;
     margin: 0;
-    font-style: italic;
-}
-
-.special{
-    color: #ED6D05;
-    font-weight:normal;
-
-}
-.special__2{
-color: #E20613;
-font-weight:normal;
-
 }
