@@ -29,11 +29,11 @@ body{
 
 .person{
 display: flex;
-align-items: flex-start;
+
 }
 
 .person__image{
-margin-right: 32px;
+
 }
 
 
