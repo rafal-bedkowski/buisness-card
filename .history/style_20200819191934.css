@@ -37,9 +37,7 @@ body{
     margin: 0;
     }
 
-.person__info{
-margin-bottom: 24px;
-}
+
 
 .person__name{
 font-size: 36px;
@@ -64,7 +62,4 @@ font-weight:normal;
 color: #E20613;
 font-weight:normal;
 text-decoration: none;
-}
-.person__description--with-margin{
-    margin-bottom: 22px;
 }
